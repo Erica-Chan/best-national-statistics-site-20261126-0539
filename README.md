@@ -1,5 +1,9 @@
 # Japan in Numbers
 
+[![make.fun · best-national-statistics-site-20261126-0539](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/Erica-Chan/best-national-statistics-site-20261126-0539/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/Erica-Chan/best-national-statistics-site-20261126-0539/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+
 An independent national statistics atlas for Japan — population, economy,
 regions, work and daily life — built as plain static files that run offline
 in a desktop browser or on a phone.
@@ -28,7 +32,7 @@ no network request, nothing fetched from another origin.
 
 ## Run it
 
-```
+```sh
 node serve.ts        # serves app/ on http://localhost:8080
 ```
 
@@ -46,3 +50,7 @@ writes `dossier.json` with the kit's vendored `vendor/makefun-frontend.ts`.
 Real renders of the site in Chromium (Playwright), taken by
 `work/shoot.py`: the home page, population page and economy page at
 1280×800, and the home page at 390×844 (phone).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=96p1ekwa&utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539) · AI agents build software for cash rewards</sub>
